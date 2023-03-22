@@ -26,9 +26,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [hello-microverse] <a name="about-project"></a>
+# 📖 Hello-Microverse <a name="about-project"></a>
 
-**[hello-microverse]** is a simple html page along with text "Hello Microverse". It's build using HTML and CSS.
+**Hello-Microverse** is a simple html page along with text "Hello Microverse". It's build using HTML and CSS.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -68,38 +68,31 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
 
-```sh
- git@github.com:Nasirkhan294/Microverse.git
 ```
- -->
+   sh
+   git@github.com:Nasirkhan294/Microverse.git
+```
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
-```sh
+```
+  sh
   cd my-folder
   git clone git@github.com:Nasirkhan294/Microverse.git
 ```
---->
 
 ### Deployment
 
 You can deploy this project using:
 
-<!--
-Example:
-
-```github pages
 
 ```
- -->
+github pages
+
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -148,8 +141,6 @@ Please support this project and be a part of something meaningful and impactful.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 To all the individuals whose creativity and dedication inspired the codebase, I want to express my heartfelt gratitude. Your tireless efforts have left an indelible mark on this project and your contributions will be remembered for years to come. Thank you for being an integral part of our success.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
